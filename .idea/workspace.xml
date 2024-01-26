@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6a5127d-78b7-4626-a96c-a2c137881905" name="Changes" comment="">
+    <list default="true" id="b6a5127d-78b7-4626-a96c-a2c137881905" name="Changes" comment="React에서 배열 사용하기 3 - 데이터 삭제하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DiaryItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiaryItem.js" afterDir="false" />
@@ -58,6 +58,15 @@
       <updated>1706004915551</updated>
       <workItem from="1706004916576" duration="5614000" />
     </task>
+    <task id="LOCAL-00001" summary="React에서 배열 사용하기 3 - 데이터 삭제하기">
+      <option name="closed" value="true" />
+      <created>1706249671144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706249671145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="React에서 배열 사용하기 3 - 데이터 삭제하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="React에서 배열 사용하기 3 - 데이터 삭제하기" />
   </component>
 </project>
