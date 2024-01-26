@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6a5127d-78b7-4626-a96c-a2c137881905" name="Changes" comment="React에서 배열 사용하기 3 - 데이터 삭제하기">
+    <list default="true" id="b6a5127d-78b7-4626-a96c-a2c137881905" name="Changes" comment="React에서 배열 사용하기 4 - 데이터 수정하기">
+      <change afterPath="$PROJECT_DIR$/src/LifeCycle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiaryItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiaryItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiaryList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiaryList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706249671145</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="React에서 배열 사용하기 4 - 데이터 수정하기">
+      <option name="closed" value="true" />
+      <created>1706251573590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706251573590</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="React에서 배열 사용하기 3 - 데이터 삭제하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="React에서 배열 사용하기 3 - 데이터 삭제하기" />
+    <MESSAGE value="React에서 배열 사용하기 4 - 데이터 수정하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="React에서 배열 사용하기 4 - 데이터 수정하기" />
   </component>
 </project>
