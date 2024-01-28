@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6a5127d-78b7-4626-a96c-a2c137881905" name="Changes" comment="React에서 API 호출하기">
+    <list default="true" id="b6a5127d-78b7-4626-a96c-a2c137881905" name="Changes" comment="최적화 1 - useMemo">
+      <change afterPath="$PROJECT_DIR$/src/OptimizeTest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -55,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706004915551</updated>
       <workItem from="1706004916576" duration="5614000" />
-      <workItem from="1706419067769" duration="1597000" />
+      <workItem from="1706419067769" duration="4305000" />
     </task>
     <task id="LOCAL-00001" summary="React에서 배열 사용하기 3 - 데이터 삭제하기">
       <option name="closed" value="true" />
@@ -89,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706276335580</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="최적화 1 - useMemo">
+      <option name="closed" value="true" />
+      <created>1706420709380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706420709380</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +120,7 @@
     <MESSAGE value="React에서 배열 사용하기 4 - 데이터 수정하기" />
     <MESSAGE value="React LifeCycle 제어하기 - useEffect" />
     <MESSAGE value="React에서 API 호출하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="React에서 API 호출하기" />
+    <MESSAGE value="최적화 1 - useMemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="최적화 1 - useMemo" />
   </component>
 </project>
