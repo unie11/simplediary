@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b6a5127d-78b7-4626-a96c-a2c137881905" name="Changes" comment="최적화 2 - React.memo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DiaryEditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiaryEditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiaryItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiaryItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/study/simplediary&quot;,
@@ -57,6 +62,8 @@
       <updated>1706004915551</updated>
       <workItem from="1706004916576" duration="5614000" />
       <workItem from="1706419067769" duration="5021000" />
+      <workItem from="1706589713642" duration="2419000" />
+      <workItem from="1706671582154" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="React에서 배열 사용하기 3 - 데이터 삭제하기">
       <option name="closed" value="true" />
@@ -131,5 +138,16 @@
     <MESSAGE value="최적화 1 - useMemo" />
     <MESSAGE value="최적화 2 - React.memo" />
     <option name="LAST_COMMIT_MESSAGE" value="최적화 2 - React.memo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/DiaryEditor.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

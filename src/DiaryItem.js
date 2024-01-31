@@ -1,6 +1,10 @@
-import {useState, useRef} from "react";
+import React, {useState, useRef, useEffect} from "react";
 
 const DiaryItem = ({onEdit, onRemove, id, author, content, emotion, created_date}) => {
+    useEffect(() => {
+        console.log(`${id}번째 아이템 렌더!`);
+    });
+
     const [isEdit, setIsEdit] = useState(false);
     const [localContent, setLocalContent] = useState(content);
     const localContentInput = useRef();
@@ -65,4 +69,4 @@ const DiaryItem = ({onEdit, onRemove, id, author, content, emotion, created_date
     );
 };
 
-export default DiaryItem;
+export default React.memo(DiaryItem);
